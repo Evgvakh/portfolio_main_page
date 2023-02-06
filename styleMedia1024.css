@@ -1,0 +1,20 @@
+@media (max-width: 1024px) {
+
+    .main-card__content {
+        flex-direction: column;
+    }
+
+    .main-card__content-side {
+        width: 100%;
+        display: flex;
+    }
+
+    .main-card__content-side__img {
+        width: 100px;
+    }
+
+    .main-card__content-side {
+        background-color: rgba(63, 70, 79, 0.568);    
+    }
+
+}

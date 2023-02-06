@@ -1,0 +1,9 @@
+@media (max-width: 430px) {
+    .content-wrapper {
+        font-size: 0.9rem;
+    }
+
+    .main-card h2 {
+        font-size: 0.8rem;
+    }
+}

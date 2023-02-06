@@ -1,0 +1,5 @@
+@media (max-width: 768px) { 
+    .main-card__head ul li button:hover {
+        letter-spacing: -1px;
+    }
+}
